@@ -1,11 +1,11 @@
-def get_upper(text):
+def data_upper(text):
     """
-    Выводит текст в верхнем регистре
+    Делает вывод текста в верхнем регистре
     """
     return text.upper()
 
 
-def get_title(text):
+def data_title(text):
     """
     Делает заглавными первые буквы каждого слова в строке
     """
